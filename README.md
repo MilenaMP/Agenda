@@ -1,4 +1,5 @@
 # 🗂️ Agenda Web - Sistema com Autenticação
+<img width="1582" height="703" alt="image" src="https://github.com/user-attachments/assets/6e06077f-8b4a-433b-b2a8-49d6cabca693" /> <br>
 
 Aplicação fullstack desenvolvida com Node.js e Express, focada em autenticação de usuários, segurança e boas práticas de desenvolvimento.
 
@@ -91,6 +92,8 @@ Acesse:
 http://localhost:3000
 
 ## 🌍 Deploy
+
+🔗 https://agenda-x0yr.onrender.com
 
 Aplicação preparada para deploy no Render.
 
